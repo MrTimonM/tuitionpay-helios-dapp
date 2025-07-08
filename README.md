@@ -248,8 +248,6 @@ A: Manually add Helios Testnet to MetaMask using the network configuration above
 ### Get Help
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/MrTimonM/tuitionpay-helios-dapp/issues)
-- **Helios Documentation**: [Official Helios Docs](https://docs.helioschainlabs.org)
-- **Community Discord**: [Join the Helios Community](https://discord.gg/helios)
 
 ### 📞 Contact Me
 
