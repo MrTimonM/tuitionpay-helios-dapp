@@ -44,7 +44,7 @@ Before running this application, ensure you have:
 
 1. **MetaMask Extension** installed in your browser
 2. **Helios Testnet** added to your MetaMask (the app will help you add it)
-3. **Test Tokens** from the [Helios Faucet](https://faucet.helioschainlabs.org)
+3. **Test Tokens** from the [Helios Faucet](https://testnet.helioschain.network/faucet)
 
 ## 🔧 Installation & Setup
 
@@ -87,7 +87,7 @@ The DApp automatically configures the Helios Testnet with these parameters:
 
 ## 💰 Getting Test Tokens
 
-1. Visit the [Helios Faucet](https://faucet.helioschainlabs.org)
+1. Visit the [Helios Faucet](https://testnet.helioschain.network/faucet)
 2. Connect your MetaMask wallet
 3. Request test tHELIOS tokens
 4. Wait for the transaction to confirm
@@ -177,13 +177,13 @@ The DApp leverages the Helios ecosystem's smart contracts:
 
 ### Manual Testing Checklist
 
-- [ ] Wallet connection works
-- [ ] Network switching functions properly
-- [ ] Payment form validation works
-- [ ] Transaction processing completes
-- [ ] Payment history updates correctly
-- [ ] Error handling displays appropriate messages
-- [ ] Responsive design works on mobile
+- [x] Wallet connection works
+- [x] Network switching functions properly
+- [x] Payment form validation works
+- [x] Transaction processing completes
+- [x] Payment history updates correctly
+- [x] Error handling displays appropriate messages
+- [x] Responsive design works on mobile
 
 ### Test Scenarios
 
